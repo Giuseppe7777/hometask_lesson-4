@@ -8,6 +8,10 @@ h3 {
     text-decoration: underline;
 }
 
+a {
+    color: blue;
+}
+
 .container {
     width: 800px;
     margin: 0 auto;
